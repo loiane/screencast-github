@@ -1,5 +1,6 @@
 nosso primeiro
-aruivo
+arquivo
 do
-screencast
-gihub
+screencast de
+github
+---------
